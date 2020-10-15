@@ -51,15 +51,15 @@ Python 3.5.3 or higher is required
 
 To install the library without full voice support, you can just run the following commands:
 
-# Linux/macOS
+### Linux/macOS
 `python3 -m pip install -U discord.py`
-# Windows
+### Windows
 `py -3 -m pip install -U discord.py`
 
 Otherwise to get voice support you should run the following command:
 
-# Linux/macOS
+### Linux/macOS
 `python3 -m pip install -U "discord.py[voice]"`
-# Windows
+### Windows
 `py -3 -m pip install -U discord.py[voice]`
 
