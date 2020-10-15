@@ -1,7 +1,7 @@
 # PychanDSC
 This repo is for the participants of DSC Central Philippine University's event on October 16-17, 2020 so they can learn the fundamentals of Python and make a Discord Bot with discordpy.
 
-# Installation Guides (Day 1)
+# Installation Guides (Day 1) - Taming Your Python
 
 ## How to install Python (Windows) 
 [▶️ Click me for a Youtube demo!](https://youtu.be/QjGUms3qUy0)
@@ -28,7 +28,7 @@ Steps:
 4. Create a project folder and create a python script. (.py)
 5. Wait for the prompt to install pylint and click install.
 
-# Installation Guides (Day 2)
+# Installation Guides (Day 2) - Discord Bots with discord.py
 
 ## How to install WSL and Ubuntu 20.04 on Windows
 [▶️ Click me for a Youtube demo!](https://youtu.be/EmLsPgy3_AI)
