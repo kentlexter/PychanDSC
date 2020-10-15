@@ -1,9 +1,9 @@
 # PychanDSC
 This repo is for the participants of DSC Central Philippine University's event on October 16-17, 2020 so they can learn the fundamentals of Python and make a Discord Bot with discordpy.
 
-# Installation Guides
+# Installation Guides (Day 1)
 
-## How to install Python (Windows)
+## How to install Python (Windows) 
 [▶️ Click me for a Youtube demo!](https://youtu.be/QjGUms3qUy0)
 
 Steps:
@@ -27,3 +27,39 @@ Steps:
 3. Search up Code Runner and install the one by Jun Han.
 4. Create a project folder and create a python script. (.py)
 5. Wait for the prompt to install pylint and click install.
+
+# Installation Guides (Day 2)
+
+## How to install WSL and Ubuntu 20.04 on Windows
+[▶️ Click me for a Youtube demo!](https://youtu.be/EmLsPgy3_AI)
+
+Steps:
+1. Go to Control Panel.
+2. Click Turn Windows features on or off
+3. Scroll down until you see Windows Subsystem For Linux
+4. After changes are made, restart your computer.
+5. After restart, open Microsoft Store.
+6. Search up Ubuntu 20.04 and click it.
+7. Click install.
+8. Close Microsoft Sign-In Prompt (Not needed)
+9. Wait for the download to finish.
+10. Click launch.
+11. Setup your Ubuntu 20.04 subsystem.
+
+## How to install discord.py dependencies
+Python 3.5.3 or higher is required
+
+To install the library without full voice support, you can just run the following commands:
+
+# Linux/macOS
+`python3 -m pip install -U discord.py`
+# Windows
+`py -3 -m pip install -U discord.py`
+
+Otherwise to get voice support you should run the following command:
+
+# Linux/macOS
+`python3 -m pip install -U "discord.py[voice]"`
+# Windows
+`py -3 -m pip install -U discord.py[voice]`
+
