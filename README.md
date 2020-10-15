@@ -1,4 +1,4 @@
-![Py-chan](https://files.catbox.moe/47nabq.png)
+![Py-chan](https://files.catbox.moe/47nabq.png)  
 *I guess you could say she's a mascot?*
 
 # PychanDSC
