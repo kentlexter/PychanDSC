@@ -1,4 +1,4 @@
-![Py-chan](https://files.catbox.moe/47nabq.png)
+![Py-chan](https://files.catbox.moe/63nqu6.png)
 # PychanDSC
 This repo is for the participants of DSC Central Philippine University's event on October 16-17, 2020 so they can learn the fundamentals of Python and make a Discord Bot with discordpy.
 
