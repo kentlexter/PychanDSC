@@ -38,6 +38,9 @@ Steps:
 
 # Installation Guides (Day 2) - 🤖 Discord Bots with discord.py 
 
+## Py-chan Showcase Discord Server
+[▶️ Click me to join the Discord Server!](https://discord.gg/Mr9bwdD)
+
 ## How to install WSL and Ubuntu 20.04 on Windows 
 [▶️ Click me for a Youtube demo!](https://youtu.be/EmLsPgy3_AI)
 
@@ -68,6 +71,7 @@ You will need this to install discord.py dependencies.
 To install pip for Python 3 on Ubuntu 20.04 run the following commands as root or sudo user in your terminal:  
 `sudo apt update`  
 `sudo apt install python3-pip`  
+
 The command above will also install all the dependencies required for building Python modules.  
 When the installation is complete, verify the installation by checking the pip version:  
 `pip3 --version`  
@@ -88,4 +92,13 @@ Otherwise to get voice support you should run the following command:
 `python3 -m pip install -U "discord.py[voice]"`
 ### Windows
 `py -3 -m pip install -U discord.py[voice]`
+
+## How to install and extract 7zip files (Linux)
+
+Install p7zip by typing this command into the terminal:  
+`sudo apt install p7zip-full`  
+
+To extract a file, use this syntax.
+`7za e myfiles.7z `
+
 
