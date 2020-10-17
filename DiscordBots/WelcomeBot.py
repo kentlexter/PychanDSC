@@ -5,8 +5,6 @@ intents = discord.Intents.all()  # Check docs for intents
 # Creates client
 client = discord.Client(intents=intents)
 
-newUserMessage = "Insert Message Here"
-
 
 @client.event  # Event decorator/wrapper
 async def on_ready():
