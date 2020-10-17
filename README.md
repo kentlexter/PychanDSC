@@ -55,13 +55,13 @@ Steps:
 11. Setup your Ubuntu 20.04 subsystem.
 
 ## Discord Developer Portal
-[🖱️ Click me to go there!](https://youtu.be/EmLsPgy3_AI)
+[🖱️ Click me to go there!](https://discord.com/developers/docs/intro)
 
 ## Discord Permissions Calculator
-[🖱️ Click me to go there!](https://youtu.be/EmLsPgy3_AI)
+[🖱️ Click me to go there!](https://discordapi.com/permissions.html)
 
 ## discord.py Documentation
-[🖱️ Click me to go there!](https://youtu.be/EmLsPgy3_AI)
+[🖱️ Click me to go there!](https://discordpy.readthedocs.io/en/latest/)
 
 ## How to install pip for Python3 (Linux/macOS)
 You will need this to install discord.py dependencies.
