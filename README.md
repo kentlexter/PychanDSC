@@ -9,7 +9,7 @@ This repo is for the participants of DSC Central Philippine University's event o
 # PPT Slides & Bonus Gift
 **Day 1**: Will be posted on Oct. 20, 2020  
 **Day 2:** Will be posted on Oct. 20, 2020  
-**Bonus Gift**: Will be announced after event!  
+**Bonus Gift**: Gifts have been given away, ask those who attended the event!  
 
 ## How to install Python (Windows) 
 [▶️ Click me for a Youtube demo!](https://youtu.be/QjGUms3qUy0)
