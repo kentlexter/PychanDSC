@@ -63,6 +63,15 @@ Steps:
 ## discord.py Documentation
 [🖱️ Click me to go there!](https://youtu.be/EmLsPgy3_AI)
 
+## How to install pip for Python3 (Linux/macOS)
+You will need this to install discord.py dependencies.
+To install pip for Python 3 on Ubuntu 20.04 run the following commands as root or sudo user in your terminal:  
+`sudo apt update`  
+`sudo apt install python3-pip`  
+The command above will also install all the dependencies required for building Python modules.  
+When the installation is complete, verify the installation by checking the pip version:  
+`pip3 --version`  
+
 ## How to install discord.py dependencies
 Python 3.5.3 or higher is required
 
