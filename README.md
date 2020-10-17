@@ -7,8 +7,8 @@ This repo is for the participants of DSC Central Philippine University's event o
 # Installation Guides (Day 1) - 🐍 Taming Your Python 
 
 # PPT Slides & Bonus Gift
-**Day 1**: Will be posted on Oct. 20, 2020  
-**Day 2:** Will be posted on Oct. 20, 2020  
+**Day 1**: [🖱️  Click me to download!](https://drive.google.com/uc?export=download&id=1zNNwMe9uTXH_4NzsGM2ZPLPcxmkNr2x1)  
+**Day 2:** [🖱️  Click me to download!](https://drive.google.com/uc?export=download&id=1isRzYk1usF9SkG2rE7vkc3tmjWodPmIZ)   
 **Bonus Gift**: Gifts have been given away, ask those who attended the event!  
 
 ## How to install Python (Windows) 
