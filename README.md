@@ -6,6 +6,11 @@ This repo is for the participants of DSC Central Philippine University's event o
 
 # Installation Guides (Day 1) - 🐍 Taming Your Python 
 
+# PPT Slides & Bonus Gift
+Day 1: Will be posted on Oct. 20, 2020
+Day 2: Will be posted on Oct. 20, 2020
+Bonus Gift: Will be announced after event!
+
 ## How to install Python (Windows) 
 [▶️ Click me for a Youtube demo!](https://youtu.be/QjGUms3qUy0)
 
@@ -48,6 +53,15 @@ Steps:
 9. Wait for the download to finish.
 10. Click launch.
 11. Setup your Ubuntu 20.04 subsystem.
+
+## Discord Developer Portal
+[🖱️ Click me to go there!](https://youtu.be/EmLsPgy3_AI)
+
+## Discord Permissions Calculator
+[🖱️ Click me to go there!](https://youtu.be/EmLsPgy3_AI)
+
+## discord.py Documentation
+[🖱️ Click me to go there!](https://youtu.be/EmLsPgy3_AI)
 
 ## How to install discord.py dependencies
 Python 3.5.3 or higher is required
