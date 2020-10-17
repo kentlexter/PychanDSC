@@ -39,7 +39,7 @@ Steps:
 # Installation Guides (Day 2) - 🤖 Discord Bots with discord.py 
 
 ## Py-chan Showcase Discord Server
-[▶️ Click me to join the Discord Server!](https://discord.gg/PJMAeGM)
+WILL BE SHOWN ON STREAM TODAY
 
 ## How to install WSL and Ubuntu 20.04 on Windows 
 [▶️ Click me for a Youtube demo!](https://youtu.be/EmLsPgy3_AI)
