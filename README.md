@@ -76,6 +76,9 @@ The command above will also install all the dependencies required for building P
 When the installation is complete, verify the installation by checking the pip version:  
 `pip3 --version`  
 
+## How to install pip for Python3 (Linux/macOS)
+Pip should already be installed with Python3 installation.
+
 ## How to install discord.py dependencies
 Python 3.5.3 or higher is required
 
