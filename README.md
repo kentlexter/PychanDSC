@@ -1,5 +1,5 @@
 ![Py-chan](https://files.catbox.moe/47nabq.png)  
-*🐍 Py-chan: A moemorphised version of Python*
+*🐍 Py-chan: A moemorphised version of Python*  
 © icw-Numen  
 
 # PychanDSC
