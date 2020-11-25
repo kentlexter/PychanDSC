@@ -8,8 +8,8 @@ This repo is for the participants of DSC Central Philippine University's event o
 # Installation Guides (Day 1) - 🐍 Taming Your Python 
 
 # PPT Slides & Bonus Gift
-**Day 1**: [🖱️  Click me to download!](https://drive.google.com/uc?export=download&id=1isRzYk1usF9SkG2rE7vkc3tmjWodPmIZ)  
-**Day 2:** [🖱️  Click me to download!](https://drive.google.com/uc?export=download&id=1zNNwMe9uTXH_4NzsGM2ZPLPcxmkNr2x1)  
+**Day 1**: [🖱️  Click me to download!](https://docs.google.com/presentation/d/1osrwTkqts9q2FJKgJfpzwD2FAW7zlxFSnwOT8dgk7f8/edit?usp=sharing)  
+**Day 2:** [🖱️  Click me to download!](https://docs.google.com/presentation/d/192PxJkguPmWU3T7jbBMglrSrKJnqF1g1EO5qmqk_YG8/edit?usp=sharing)  
 **Code Summary of Day 1**: [🖱️  Click me to download!](https://drive.google.com/uc?export=download&id=1LdY80UcqykJ5z1wv6FYV3hJZEUiyuIji)   
 
 **Bonus Gift**: Gifts have been given away, ask those who attended the event!  
