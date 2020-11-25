@@ -10,7 +10,10 @@ This repo is for the participants of DSC Central Philippine University's event o
 # PPT Slides & Bonus Gift
 **Day 1**: [🖱️  Click me to download!](https://docs.google.com/presentation/d/1osrwTkqts9q2FJKgJfpzwD2FAW7zlxFSnwOT8dgk7f8/edit?usp=sharing)  
 **Day 2:** [🖱️  Click me to download!](https://docs.google.com/presentation/d/192PxJkguPmWU3T7jbBMglrSrKJnqF1g1EO5qmqk_YG8/edit?usp=sharing)  
-**Code Summary of Day 1**: [🖱️  Click me to download!](https://drive.google.com/file/d/1AioZ1KliuAPBxTmgAKJ6Yd-uM0QeUjdW/view?usp=sharing)   
+**Code Summary of Day 1**: [🖱️  Click me to download!](https://drive.google.com/file/d/1AioZ1KliuAPBxTmgAKJ6Yd-uM0QeUjdW/view?usp=sharing)
+**Day 1 Youtube Archive**: [▶️ ](https://www.youtube.com/watch?v=vZmOExSkYXw)
+**Day 2 Youtube Archive**: [▶️ ](https://www.youtube.com/watch?v=rRtPTisH2fo)
+**Certificate of Recognition for Instructor:** [🖱️  Click me to view!](https://drive.google.com/file/d/1CKuflPpdhYzMhDn-GkY6Twd89ZFOfusa/view?usp=sharing)
 
 **Bonus Gift**: Gifts have been given away, ask those who attended the event!  
 
